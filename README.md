@@ -2,10 +2,12 @@
 
 👀 I’m interested in **backend** and I have leaning a lot of interesting things about this area
 
-📚 Today, I are a student of UNIR university in capital Porto Velho localized in Rondônia, a state of Brazil.
+📚 Today, I'm a student of UNIR university in capital Porto Velho localized in Rondônia, a state of Brazil.
+- 🎓 Bachelor degree in Computer Science 🔄 (In progress)
+- 💻 Computer Technician
 - 💡 I know Go and I have work with Node.js
 - 🌱 I’m currently learning **C** and **TypeScript** 
-- 🔎 My personal github profile for study [@NicolasSales0101](github.com/NicolasSales0101)
+- 🔎 My personal github profile for study [@NicolasSales0101](https://www.github.com/NicolasSales0101)
  
 <div style="display: inline_block">
   <img align="center" height=70 width=70 alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
