@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @realnfcs
 
-**I'm called Nicolas Sales and I have 18 years old**
+**I'm called Nicolas Sales and I'm 18 years old**
 
 👀 I'm interested in **backend** and I have leaning a lot of interesting things about this area, but I study **frontend** technologies too!
 
