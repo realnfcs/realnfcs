@@ -2,7 +2,7 @@
 
 **I'm called Nicolas Sales and I'm 18 years old**
 
-👀 I'm interested in **backend** and I have leaning a lot of interesting things about this area, but I study **frontend** technologies too!
+👀 I'm interested in **backend** and I have leaning a lot of interesting things about this area, but I study **AI and DevOps** technologies too!
 
 📚 `Today, I'm a student of UNIR university in capital Porto Velho localized in Rondônia, a state of Brazil.`
 
@@ -10,7 +10,7 @@
 - 🎓 Bachelor degree in Computer Science 🔄 (In progress)
 - 💻 Computer Technician
 - 💡 I know **Go** and I have work with **Node.js**
-- 🌱 I'm currently learning **C** and **TypeScript** 
+- 🌱 I'm currently learning **Python**, **AI** and **DevOps** concepts
 
 ## ⚙️ Technologies
 <p align="left">
@@ -19,6 +19,7 @@
   <img align="center" height=50em width=75em alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" height=45em width=75em alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" height=50em width=75em alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" height=50em width=75em alt="Python" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />
 </p>
 
 ## 📬 Contacts
